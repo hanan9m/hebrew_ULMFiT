@@ -1,0 +1,4 @@
+*.pkl
+models
+data/wiki/
+tmp/
